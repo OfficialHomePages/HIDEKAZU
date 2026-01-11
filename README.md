@@ -71,12 +71,12 @@
     <a href="#contact"></a>
   </nav>  <main>
     <section id="about">
-      <h2>最近の出来事</h2>
+      <h2>本日の一言</h2>
       <p>
         ちんこ痛すぎる😭
       </p>
     </section><section id="activities">
-  <h2>NEWS</h2>
+  <h2>本日のNEWS</h2>
   <ul>
     <li>ちんこ終わった</li>
     <li>夜更かしした</li>
@@ -85,14 +85,14 @@
 </section>
 
 <section id="contact">
-  <h2>お問い合わせ</h2>
-  <p>
-    ご連絡は以下の方法でお願いします。<br>
-    （※現在は準備中です）
-  </p>
+  <h2>リンク</h2>
+  <a href="https://youtube.com/@hideo-exp?si=xBDm7zsEfFtOglsW">YouTube</a>
+ <br> <a href="https://youtube.com/https://x.com/hide0802kaji">Twitter</a>
+ <br> <a href="https://news.yahoo.co.jp/users/TWA0ts158YAfZuSl_IRhZ45tOUNnnNoYqzZy8Nsf5qZNLrry00/news">Yahoo!ニュース</a>
+  
 </section>
 
   </main>  <footer>
-    © 2026 梶山秀一 All Rights Reserved.
+  
   </footer></body>
 </html>
